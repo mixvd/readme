@@ -121,15 +121,3 @@ In addition, with the Advanced Admin ESP system, you can register your own entit
 If you wish to remove one of the pre-defined entity ESP's, in case you are not using the HL2RP Schema or for any other reason, you can use the `SQUADRON:DeregisterEspEntity(entity_class)` function in `sh_squadron_overrides.lua`.
 
 Finally, if you wish to override any code added by Squadron, you can do that in `sh_squadron_overrides.lua`. Thais way, if you download an update, your changes won't be overridden.
-
-### Support
-
-If you need any help with Squadron what-so-ever, please do not hesitate to reach out to me through the HL2RP Hub discord (https://discord.gg/hyPtDAF), directly on discord (aspecttm), or through Steam (https://steamcommunity.com/id/Aspect12/).
-
-### Upcoming
-
-I plan to keep updating Squadron to add new features and make improvements based on the feedback I get from clients. That being said, there are a few things that I have plans to add in the future. These include but are not limited to:
-
-* In-Game Rank & Permission Configuration
-* Player Info Panel (A dedicated panel to view everything known about a player, like warnings, character list, notes, previous bans, etc)
-* Anti-Alt system
